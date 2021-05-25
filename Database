@@ -19,3 +19,13 @@ rewind($fp); // File Read
 $data fread($fp, 1048576);
 
 fclose($fp);
+[11:31, 5/25/2021] Harish Mech: $inputArray array(
+
+array("First Name", "Last Name", "Identification Number"
+
+array("Ki", "Thomas", "8001"), array("Jeffery", "Robert", "8021")
+
+array("Helan", "Albert", "8705)
+print "<PRE>";
+
+print $CSVData = arrayToCSV ($inputArray
